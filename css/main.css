@@ -16,6 +16,14 @@ html {
     line-height: 1.4;
 }
 
+section#bars {
+    margin: 10em 10em 0em 10em;
+}
+
+#img1 {
+    float: right;
+}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
