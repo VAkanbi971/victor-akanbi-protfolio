@@ -105,8 +105,12 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-html {
-    background-image: url("https://images.pexels.com/photos/718952/pexels-photo-718952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+footer {
+    text-align: center;
+    color: white;
+    background: #000;
+    text-decoration: none;
+    padding-top: 1em;
 }
 
 /* ==========================================================================
