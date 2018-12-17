@@ -112,6 +112,9 @@ footer {
     text-decoration: none;
     padding-top: 1em;
 }
+.jumbotron {
+    margin-top: 5em;
+}
 
 /* ==========================================================================
    Helper classes
