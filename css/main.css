@@ -10,7 +10,7 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
-   html {
+html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
@@ -112,8 +112,18 @@ footer {
     text-decoration: none;
     padding-top: 1em;
 }
+
 .jumbotron {
     margin-top: 5em;
+}
+
+.img2 {
+    margin: 0em 0em 1em 2em;
+}
+
+.img3 {
+    float: right;
+    margin-right: 8em;
 }
 
 /* ==========================================================================
